@@ -1,0 +1,15 @@
+
+
+.searchBox {
+    height: max-content;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.corners {
+    border-radius: 10px;
+}
+
+.stretch {
+    height: max-content;
+}
